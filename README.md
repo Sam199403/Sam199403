@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Sam199403
-- 👀 I’m interested in learning how to use github and upload some special-purpose code snippets
-- 🌱 I’m currently learning a lot of stuff. Nothing in particular
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sam! 
 
 <!---
 Sam199403/Sam199403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
