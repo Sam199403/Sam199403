@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Sam! 
-
-<!---
-Sam199403/Sam199403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 HELLO!
+* I am Sam!
+* Aerospace/Mechanical Engineer 🚀🚒
+* Loves rockets, corgis, reggaeton and bunnies (in no particular order) 
+* Interested in programming and numerical methods
